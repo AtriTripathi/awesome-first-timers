@@ -2,7 +2,13 @@
   Place: Allahabad, India  
   Bio: I am like a code under development  
   GitHub: [Anupam Dagar](https://github.com/Anupam-dagar)    
-  Facebook: [Anupam Dagar](https://www.facebook.com/invincible.anupam)    
+  Facebook: [Anupam Dagar](https://www.facebook.com/invincible.anupam)   
+  
+- Name: Atri Tripathi  
+  Place: Bangalore, India  
+  Bio: I code stuff!  
+  Github: [Atri Tripathi](https://github.com/AtriTripathi)  
+  Facebook: [Atri Tripathi](https://www.facebook.com/atritripathi)  
 
 - Name:  Andre Peregrina  
   Place: Mexicali, Mexico  
